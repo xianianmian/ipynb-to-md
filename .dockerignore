@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.gitignore
+.env
+.env.local
+.env.production
+README.md
+LICENSE
+Dockerfile
+docker-compose.yml
+.vercel
+coverage
+*.log
